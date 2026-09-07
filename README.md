@@ -1,2 +1,19 @@
-# Bash-powershell
-Useful Bash &amp; PowerShell commands for networking, system administration, security, and automation.
+# Bash & PowerShell
+
+A practical collection of Bash and PowerShell commands for:
+- Network scanning
+- System administration
+- Security testing
+- Automation
+
+## Contents
+
+### Bash
+- Port scanning
+- Network enumeration
+- File and process management
+
+### PowerShell
+- Network diagnostics
+- System administration
+- Security-related commands
