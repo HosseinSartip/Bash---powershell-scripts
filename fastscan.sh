@@ -1,4 +1,8 @@
 #!/bin/bash
+# Simple Bash TCP Port Scanner
+# chmod +x fastscan.sh
+# Usage: ./fastscan.sh <IP> <START_PORT> <END_PORT>
+# ./fastscan.sh 192.168.1.10 1 65535
 
 TARGET=$1
 START=$2
